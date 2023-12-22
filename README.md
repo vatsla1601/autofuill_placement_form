@@ -34,15 +34,12 @@ Inspect -> Right-click highlighted HTML -> Copy -> Copy XPath.
 Run the script:
 python autofill_placement_form.py
 
-Reference google form used:
- [See the video]([https://youtu.be/KqWUC-xWYpA?si=oOxZBqGgA9sMxGrI](https://www.loom.com/share/66a0f0ad46e4441197a6845ed7ff8f00?sid=1fe93178-3a26-4854-9caf-a7e7169d020b)
+[Reference google form used](https://docs.google.com/forms/d/e/1FAIpQLSdrfsACGIRNG33kxgq9a6bmdslqne3HPkGNGIW84S3XET7uUg/viewform?usp=sf_link)
 
 
 ## Output 
 
-https://www.loom.com/share/66a0f0ad46e4441197a68
-45ed7ff8f00?sid=1fe93178-3a26-4854-9caf-a7e7169d0
-20b
+ [See the video](https://www.loom.com/share/66a0f0ad46e4441197a6845ed7ff8f00?sid=1fe93178-3a26-4854-9caf-a7e7169d020b)
 
 ## Contribution
 Feel free to contribute by opening issues or creating pull requests.
