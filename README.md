@@ -37,5 +37,11 @@ python autofill_placement_form.py
 Reference google form used:
 https://docs.google.com/forms/d/e/1FAIpQLSdrfsACGIRNG33kxgq9a6bmdslqne3HPkGNGIW84S3XET7uUg/viewform?usp=sf_link
 
+## Output 
+
+https://www.loom.com/share/66a0f0ad46e4441197a68
+45ed7ff8f00?sid=1fe93178-3a26-4854-9caf-a7e7169d0
+20b
+
 ## Contribution
 Feel free to contribute by opening issues or creating pull requests.
